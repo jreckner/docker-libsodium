@@ -4,7 +4,7 @@
 #
 
 # Pull base image.
-FROM ubuntu:14.04.3
+FROM ubuntu:14.04.5
 MAINTAINER Jon Reckner <jreckner@lexmark.com>
 
 # Define Libsodium version
