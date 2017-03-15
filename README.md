@@ -5,7 +5,7 @@ libsodium Dockerfile
 ====================
 
 This repository contains **Dockerfile** of [libsodium](https://download.libsodium.org/doc/) for 
-[Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/jreckner/libsodium/) published 
+[Docker](https://www.docker.com/)'s [automated build](https://hub.docker.com/r/jreckner/docker-libsodium/) published 
 to the public [Docker Hub Registry](https://registry.hub.docker.com/).
 
 ## Base Docker Image
