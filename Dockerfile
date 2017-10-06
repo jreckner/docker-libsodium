@@ -8,7 +8,7 @@ FROM ubuntu:14.04.5
 MAINTAINER Jon Reckner <jreckner@lexmark.com>
 
 # Define Libsodium version
-ENV LIBSODIUM_VERSION 1.0.14
+ENV LIBSODIUM_VERSION 1.0.15
 
 # Define workdir
 WORKDIR /root
