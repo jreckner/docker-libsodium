@@ -4,11 +4,11 @@
 #
 
 # Pull base image.
-FROM ubuntu:14.04.5
+FROM ubuntu:18.04
 MAINTAINER Jon Reckner <jreckner@lexmark.com>
 
 # Define Libsodium version
-ENV LIBSODIUM_VERSION 1.0.16
+ENV LIBSODIUM_VERSION 1.0.17
 
 # Define workdir
 WORKDIR /root
