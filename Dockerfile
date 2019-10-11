@@ -8,7 +8,7 @@ FROM ubuntu:18.04
 MAINTAINER Jon Reckner <jreckner@lexmark.com>
 
 # Define Libsodium version
-ENV LIBSODIUM_VERSION 1.0.17
+ENV LIBSODIUM_VERSION 1.0.18
 
 # Define workdir
 WORKDIR /root
