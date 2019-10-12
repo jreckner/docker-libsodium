@@ -10,7 +10,7 @@ to the public [Docker Hub Registry](https://registry.hub.docker.com/).
 
 ## Base Docker Image
 
-* [Ubuntu 14.04.5](https://registry.hub.docker.com/u/library/ubuntu/)
+* [Ubuntu 18.04](https://registry.hub.docker.com/u/library/ubuntu/)
 
 ## Pull image
 ```
